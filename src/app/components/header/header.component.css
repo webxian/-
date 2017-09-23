@@ -1,0 +1,30 @@
+.mar{
+    background-color: #ff9d00;
+}
+.navbar{
+    height: 67px;
+}
+div ul li{
+    text-align: center;
+    height: 67px;
+    line-height: 67px;
+
+    
+}
+ul a{
+    display: inline;
+    color: black;
+}
+.login{
+    padding-left: 510px;
+}
+.mar a{
+    color: white;
+}
+.navbar-header{
+    margin-left: 88px;
+}
+/* 用户头像 */
+.icon{
+    margin-right: 118px;
+}

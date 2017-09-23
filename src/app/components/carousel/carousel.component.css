@@ -1,0 +1,15 @@
+.swiper{
+    z-index: -99;
+}
+.bg{
+   
+   
+    margin-top: -70px;
+}
+.suolve{
+    width: 100%;
+    height: 70px;
+}
+.suolve .bg{
+    background-color: rgba(white, white, white, 0.2);
+}
