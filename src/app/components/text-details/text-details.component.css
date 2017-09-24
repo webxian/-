@@ -1,0 +1,22 @@
+/* 正文标题 */
+.txt hr{
+    margin-top: 0;
+    border-top: 1px solid black;
+}
+/* 留言评论标题 */
+.note{
+    width: 362px;
+    height: 62px;
+    border: 1px solid black;
+    text-align: center;
+}
+.note1{
+   margin-top: 24px;
+}
+/* 正文图片 */
+.txtImg{
+    border-radius: 5px;
+}
+
+
+

@@ -10,6 +10,7 @@ import { HeaderComponent } from './components/header/header.component';
 import { FooterComponent } from './components/footer/footer.component';
 import { CarouselComponent } from './components/carousel/carousel.component';
 import { TextComponent } from './components/text/text.component';
+import { TextDetailsComponent } from './components/text-details/text-details.component';
 @NgModule({
   declarations: [
     AppComponent,
@@ -18,6 +19,7 @@ import { TextComponent } from './components/text/text.component';
     FooterComponent,
     CarouselComponent,
     TextComponent,
+    TextDetailsComponent,
   ],
   imports: [
     BrowserModule,
