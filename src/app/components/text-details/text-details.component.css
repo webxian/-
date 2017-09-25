@@ -1,9 +1,9 @@
-/* 正文标题 */
+/* 正文标题
 .txt hr{
     margin-top: 0;
     border-top: 1px solid black;
 }
-/* 留言评论标题 */
+留言评论标题
 .note{
     width: 362px;
     height: 62px;
@@ -13,10 +13,72 @@
 .note1{
    margin-top: 24px;
 }
-/* 正文图片 */
-.txtImg{
+正文图片
+._j_lazyload{
     border-radius: 5px;
 }
+ */
+ /* 正文标题 */
+ .txt hr{
+    margin-top: 0;
+    border-top: 1px solid black;
+}
+ /* 正文图片 */
+ ._j_lazyload{
+     border-radius: 5px;
+     width:100%;
+ }
+/* 留言评论 */
+.note-title{
+    /* width: 350px; */
+    height: 62px;
+    /* border: 1px solid black; */
+    text-align: center;
+    box-shadow: 2px 2px 1px #888888;
+    font-size: 18px; 
+}
+.note1-title{
+    margin-top: 19px;
+ }
+ .note-icon{
+     margin-top: 20px;
+     width: 100%;
+     /* border: 1px solid black; */
+     background: #eee;
+     border-radius: 50px 0 0 50px;
+ }
+ .note-icon img{
+    border-radius: 50% 50%;
+ }
+ /* 用户名 */
+ .username{
+     color: #ff9d00;
+ }
+ /* 时间 */
+ .data{
+    /* height: 60px; */
+    /* line-height: 60px; */
+    padding-top: 25px;
+ }
 
-
-
+ /* 评论正文 */
+ .note-txt{
+     margin-top:20px; 
+     padding-left: 20px;
+     color: gray;
+     font-size: 13px;
+ }
+/* 回复游记标题 */
+.reply{
+    font-size: 16px;
+    text-align: center;
+    width: 150px;
+    color: #ff9d00;
+    border-bottom:2px solid #ff9d00;
+}
+/* 发表回复按钮 */
+.btnbg{
+    width: 120px;
+    background-color: #ff9d00;
+    color: white;
+}

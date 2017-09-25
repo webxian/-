@@ -1,0 +1,78 @@
+.imgtitle{
+    color: white;
+    font-size: 40px;
+    position: absolute;
+    top: 40%;
+    left: 30%;
+    
+}
+/* 标题 */
+.titletxt{
+    margin:0;
+    margin-top: 20px;
+    font-size: 18px;
+}
+/* 标题下的hr */
+.titlehr{
+    width: 100%;
+    border-bottom: 1px solid #ccc;
+}
+ul{
+    padding: 0;
+    list-style: none;
+    color: #666e72;
+}
+ul li{
+    height: 30px;
+    line-height: 30px;
+}
+.bgc{
+    background: #efefef;
+}
+.imgicon{
+    border-radius: 50%;
+}
+.username{
+    color: #ff9d00;
+}
+.details{
+    text-indent: 32px;
+    line-height: 2em;
+    color: #666e72;
+}
+.mt{
+    margin-top: 20px;
+}
+.mt1{
+    margin-top: 10px;
+}
+.input-txt{
+    width: 80%;
+    padding-left: 10px;
+    padding-right: 20px;
+}
+.man{
+    width: 30%;
+    margin-right: 10px;
+}
+.btn{
+    margin-left: 11.5%;
+    width: 110px;
+    background: #ff9d00;
+}
+.note-title{
+    height: 40px;
+    margin-top: 10px;
+    border: 1px solid white;
+    text-align: center;
+    background: white;
+    box-shadow: 2px 2px 1px white;
+    font-size: 18px; 
+}
+.note1-title{
+    line-height: 40px;
+ }
+ .applyimg{
+     margin-top: 30px;
+     border-radius: 50%;
+ }

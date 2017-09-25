@@ -1,0 +1,86 @@
+.bottom-hr{
+    width: 100%;
+    border-bottom: 1px solid #ccc;
+}
+.gowithTitle{
+    padding-top: 30px;
+    font-size: 20px;
+    color: #ccc;
+}
+.t-img{
+    padding-top: 30px;
+    
+}
+.bottom-hr1{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    width: 100%;
+    border-bottom: 1px solid #ccc;
+}
+.input1{
+    height: 32px;
+    border:1px solid #ccc;
+    border-radius: 5px;
+}
+/* 发布按钮 */
+.btnbg{
+    background: #ff9d00;
+}
+/* 背景 */
+.bgc{
+    background: #efefef;
+    margin-top: 20px;
+}
+.dimg{
+    height: 190px;
+}
+/* 曼谷hr */
+.hr1{
+    width: 180px;
+    border-bottom: 1px solid #ccc;
+
+}
+.dataimg{
+    width: 73px;
+    height: 60px;
+    border: 1px solid black;
+    background: url("../../../assets/img/sprites5.png");
+    background-position: -80px 0;
+    z-index: 99;
+    position: relative;
+    left: 192px;
+    top: -32px;
+}
+.datanum{
+    line-height: 60px;
+    text-align: center;
+    padding-top: 7px;
+}
+.datanum span{
+    font-size: 22px;
+    color: #409f97;
+}
+/* 用户头像 */
+.icon{
+    border-radius: 50%;
+}
+.username{
+    padding-left: 5px;
+    font-size: 12px;
+    color: #ff9d00;
+}
+.pnum{
+    margin-top: 20px;
+}
+.pnum span{
+    font-size: 20px;
+}
+.arrow{
+    width: 39px;
+    height: 39px;
+    background: url("../../../assets/img/sprites5.png");
+    position: relative;
+    left: 215px;
+    top: -50px;
+    background-position: 0 -80px;
+}
