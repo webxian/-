@@ -1,0 +1,86 @@
+.bg img{
+    opacity: 0.8;
+}
+.logo{
+    position: absolute;
+    top: 16%;
+    left: 56%;
+}
+.container{
+    width: 370px;
+    height: 300px;
+    border: 1px solid black;
+    position: absolute;
+    top: 27%;
+    left: 45%;
+    background: white;
+    border-radius: 5px;
+}
+.tel{
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+.btnbg{
+    background: #ff9d00;
+    text-align: center;
+    color: white;
+}
+.hrb{
+    width: 100%;
+    border-bottom: 1px solid #ccc;
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+.team{
+    font-size: 12px;
+    color: #9999a5;
+}
+
+.icon1-1,.icon2-1,.icon3-1{
+    width: 60px;
+    display: inline-block;
+    text-align: center;
+    margin-right: 20px;
+}
+.icon1{
+    width: 42px;
+    height: 42px;
+    background: url("../../../assets/img/c_icon3.gif");
+    margin: 0 auto;
+    background-position: 0 0;
+}
+.icon2{
+    width: 42px;
+    height: 42px;
+    background: url("../../../assets/img/c_icon3.gif");
+    background-position: -42px 0;
+    margin: 0 auto;
+}
+.icon3{
+    width: 42px;
+    height: 42px;
+    background: url("../../../assets/img/c_icon3.gif");
+    background-position: -295px 0;
+    margin: 0 auto;
+}
+.without{
+    width: 142px;
+    height: 26px;
+    border: 1px solid black;
+    line-height: 26px;
+    text-align: center;
+    border-radius: 13px 13px 13px 13px;
+    background: #585140;
+    opacity: 0.5;
+    position: absolute;
+    top:80%;
+    left: 55%;
+    z-index: 99;
+    font-size: 12px;
+}
+.txtc1{
+    color: white;
+}
+.txtc2{
+    color: #ff9d00;
+}

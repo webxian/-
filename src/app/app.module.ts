@@ -14,6 +14,8 @@ import { TextDetailsComponent } from './components/text-details/text-details.com
 import { GowithComponent } from './components/gowith/gowith.component';
 import { GowithDetailsComponent } from './components/gowith-details/gowith-details.component';
 import { PutGowithComponent } from './components/put-gowith/put-gowith.component';
+import { LoginComponent } from './components/login/login.component';
+import { RegistComponent } from './components/regist/regist.component';
 @NgModule({
   declarations: [
     AppComponent,
@@ -26,6 +28,8 @@ import { PutGowithComponent } from './components/put-gowith/put-gowith.component
     GowithComponent,
     GowithDetailsComponent,
     PutGowithComponent,
+    LoginComponent,
+    RegistComponent,
   ],
   imports: [
     BrowserModule,
